@@ -1,5 +1,5 @@
 PROJECT_NAME           = "RUNIX"
-PROJECT_BRIEF          = "RUNIX"
+PROJECT_BRIEF          = "Guest UNIX in Rust"
 PROJECT_LOGO           = doc/logo.png
 OUTPUT_DIRECTORY       =
 WARN_IF_UNDOCUMENTED   = NO
